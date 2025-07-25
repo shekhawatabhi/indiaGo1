@@ -64,28 +64,28 @@ export default function Contact() {
     {
       icon: Phone,
       title: 'Phone Support',
-      content: '+91 80 4567 8900',
-      description: 'Mon-Sat, 9 AM - 7 PM IST',
+      content: '+91 9571300665',
+      description: 'Mon-Sun, 9 AM - 7 PM IST',
       color: 'text-green-600'
     },
     {
       icon: Mail,
       title: 'Email Support',
-      content: 'support@indiagojobs.com',
+      content: 'shekhawatabhi632@gmail.com',
       description: 'We respond within 24 hours',
       color: 'text-blue-600'
     },
     {
       icon: MapPin,
       title: 'Office Address',
-      content: 'Bangalore, Karnataka',
-      description: 'HSR Layout, Sector 1',
+      content: 'Jhunjhunu, Rajasthan, India',
+      description: 'Visit us anytime',
       color: 'text-purple-600'
     },
     {
       icon: Clock,
       title: 'Business Hours',
-      content: 'Monday - Saturday',
+      content: 'Monday - Sunday',
       description: '9:00 AM - 7:00 PM IST',
       color: 'text-orange-600'
     }
